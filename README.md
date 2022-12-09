@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NuOneGit
-- 👀 I’m interested in web designing.
+- 👀 I’m interested in web designing & developing.
 - 🌱 I’m currently learning web development.
 
 <!---
